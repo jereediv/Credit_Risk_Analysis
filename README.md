@@ -7,13 +7,11 @@ Using a credit card dataset from LendingClub, we will use oversampling and under
 Using the scikit-learn and imblearn libraries we were able to calculate the following precision and recall scores for 6 machine learning models:
 
 - Using BalancedRandomForestClassifier from imblearn.ensemble:
-	- Balanced accuracy score :  0.79
-	- Imbalanced classification report :  
+	- Balanced accuracy score :  0.79 - https://github.com/jereediv/Credit_Risk_Analysis/blob/main/BalancedAccuracyScore.png?raw=true
+	- Imbalanced classification report :  https://github.com/jereediv/Credit_Risk_Analysis/blob/main/ImbalancedClassificationReport.png?raw=true
 
 - Using EasyEnsembleClassifier from imblearn:
-	- Balanced accuracy score :  0.92
-	- Imbalanced classification report :   
+	- Balanced accuracy score :  0.92 - https://github.com/jereediv/Credit_Risk_Analysis/blob/main/EnsBalancedAccuracyScore.png?raw=true
+	- Imbalanced classification report :  https://github.com/jereediv/Credit_Risk_Analysis/blob/main/EnsImbalancedClassificationReport.png?raw=true
 
-
-	
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary:
